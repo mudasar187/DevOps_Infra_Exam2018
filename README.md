@@ -105,8 +105,12 @@ Follow all these steps step by step
 | POST by id | `/gotrest/api/gameofthrones` make a get request, use the fields and try POST method on Postman | Meter
 
 
+
 6. Try make changes on application and make a git push
     - You will now see `build` job is triggered automatically, it may take a little time, be patience
     - Notice how fast `build` job is executed because of maven dependencies
 
+
+
+<img width="1530" alt="skjermbilde 2018-11-25 kl 13 01 18" src="https://user-images.githubusercontent.com/29889280/48978925-c897bd80-f0b3-11e8-94b5-c7b336f1c3fa.png">
 		
