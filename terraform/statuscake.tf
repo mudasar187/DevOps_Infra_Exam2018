@@ -1,5 +1,5 @@
 provider "statuscake" {
-  username = "ahmmud166gmailcom"
+  username = "XXX"
   /*
     Your email registrated at www.statuscake.com without @,
     eg: example@mail.com -> replace: "XXX" with examplemailcom

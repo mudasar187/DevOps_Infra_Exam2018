@@ -71,7 +71,7 @@ resources:
 - name: restapi-git-master
   type: git
   source:
-    uri: git@github.com:mudasar187/DevOps_App_Exam2018.git
+    uri: XXX
     branch: master
     private_key: ((deploy_key_app))
 
@@ -79,7 +79,7 @@ resources:
 - name: terraform-git-master
   type: git
   source:
-    uri: git@github.com:mudasar187/DevOps_Infra_Exam2018.git
+    uri: XXX
     branch: master
     private_key: ((deploy_key_infra))
 
